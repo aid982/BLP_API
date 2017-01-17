@@ -1,0 +1,20 @@
+HistoricalDataResponse = {
+    securityData = {
+        security = "ETLN LI Equity"
+        eidData[] = {
+            14075
+        }
+        sequenceNumber = 0
+        fieldExceptions[] = {
+        }
+        fieldData[] = {
+            fieldData = {
+                date = 2016-11-22
+                PX_LAST = 2.71
+                OPEN = 2.74
+                BID = 2.71
+                ASK = 2.735
+            }
+        }
+    }
+}
