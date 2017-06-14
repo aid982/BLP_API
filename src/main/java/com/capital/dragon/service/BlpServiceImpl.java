@@ -148,6 +148,7 @@ public class BlpServiceImpl implements BlpService {
             }
 
         }
+        session.stop();
         return resultList;
     }
 
